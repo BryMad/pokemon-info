@@ -1,0 +1,34 @@
+html,
+body {
+  background-color: lightgray;
+  height: 100bh
+}
+
+button {
+  font-size: 150%
+}
+
+
+div {
+  border: 2px solid;
+}
+
+.left {
+  background-color: #aaa;
+}
+
+.right {
+  background-color: grey;
+}
+
+.left,
+.right {
+  padding: 10px;
+}
+
+.row {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  height: 100%;
+
+}
