@@ -1,1 +1,1 @@
-# pokemon-info
+this is my Pokemon API project
